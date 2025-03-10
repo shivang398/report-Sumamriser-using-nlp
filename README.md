@@ -20,7 +20,7 @@ pip install numpy pandas nltk scikit-learn transformers torch
 Clone the repository and install dependencies:
 
 
-git clone https://github.com/your-repo/report-summarizer.git
+git clone https://github.com/shivang398/report-Sumamriser-using-nlp.git
 cd report-summarizer
 pip install -r requirements.txt
 
